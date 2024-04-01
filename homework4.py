@@ -1,7 +1,6 @@
-#Artur Kazukevich
+#Vika Kolesnikova
 #Homework-4
-#12.03.2024
-#Grodno-IT-Academy-Python 3.10
+#01.04.2024
 
 # теперь тесты написаны с использованием библиотеки pytest
 # нам нужно ее установить: pip install pytest
